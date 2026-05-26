@@ -15,10 +15,6 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
   <img src="https://skillicons.dev/icons?i=swift,react,java,python,github,git,vscode&theme=dark" />
 </p>
 
-<p>
-  Swift • SwiftUI • UIKit • Xcode • VS Code • Git • GitHub • React • Java • Python
-</p>
-
 
 
 
