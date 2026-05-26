@@ -21,15 +21,15 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
 
 🎥 Movie List 
 Movie List website built with:
-- <b>Frontend: React with vite</b>
-- Backend: Node.js + Express
-- Database: MongoDB
-- API: TMDB (The Movie Database)
+- <b>Frontend:</b> React with vite
+- <b>Backend:</b> Node.js + Express
+- <b>Database:</b> MongoDB
+- <b>API:</b> TMDB (The Movie Database)
 
 Key Features:
- - Browse Trending & Popular Movies
- - Search Movies Instantly
- - Add/Remove users Favorite Movies
+ - <b>Browse Trending & Popular Movies</b>
+ - <b>Search Movies Instantly</b>
+ - <b>Add/Remove users Favorite Movies</b>.
 
 <p>
   <a href="https://github.com/Salum14/Movie-App">
