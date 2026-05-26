@@ -21,7 +21,7 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
 
 🎥 Movie List 
 Movie List website built with:
-- Frontend: React with vite 
+- <b>Frontend: React with vite</b>
 - Backend: Node.js + Express
 - Database: MongoDB
 - API: TMDB (The Movie Database)
