@@ -7,8 +7,7 @@ Recent graduate at Hood College specializing in <b>iOS development using SwiftUI
 
 Besides mobile development, I have solid foundation with full-stack web development, building responsive and scalable applications using React.
 
-Currently, sharpening my iOS development skills, developing a portfolio-grade applications, and perparing for entry-level iOS developer and Software Engineering roles. 
-
+Currently, I’m focused on strengthening my iOS development skills, building portfolio-grade applications, and preparing for entry-level iOS Developer and Software Engineering roles.
 ------------------------------------------------------------
 
 🛠️ Tech Stack & Tools
