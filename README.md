@@ -15,8 +15,13 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
   <img src="https://skillicons.dev/icons?i=swift,react,java,python,github,git,vscode&theme=dark" />
 </p>
 
+📱 Contact me
 
-
+<p>
+  <a href="https://linkedin.com/in/salum-matope-33129628a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
