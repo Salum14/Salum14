@@ -23,7 +23,8 @@ Currently, I’m focused on strengthening my iOS development skills, building po
 
 <img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
 
-🎥 Movie List 
+🎥 Movie-App
+
 Movie List website built with:
 - <b>Frontend:</b> React with vite
 - <b>Backend:</b> Node.js + Express
