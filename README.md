@@ -30,9 +30,9 @@ Key Features:
  - Search Movies Instantly
  - Add/Remove users Favorite Movies
 
-🔗 <p>
-  <a href="[https://lnkd.in/e8YXtdWc]">
-    GitHub Repo
+<p>
+  <a href="https://github.com/Salum14/Movie-App">
+    🔗 Github Repo
   </a>
 </p>
 
