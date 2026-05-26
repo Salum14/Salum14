@@ -16,7 +16,11 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
 </p>
 
 🚀 Projects
-https://github.com/user-attachments/assets/f9c4cc47-5a6a-4cb3-ae86-d99cf74ed2bd
+
+<img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
+
+
+
 
 
 📱 Contact me
