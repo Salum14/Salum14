@@ -15,6 +15,8 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
   <img src="https://skillicons.dev/icons?i=swift,react,java,python,github,git,vscode&theme=dark" />
 </p>
 
+------------------------------------------------------------
+
 🚀 Projects
 
 <img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
@@ -37,7 +39,7 @@ Key Features:
   </a>
 </p>
 
-
+------------------------------------------------------------
 
 📱 Contact me
 
