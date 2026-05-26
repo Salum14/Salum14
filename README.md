@@ -2,6 +2,8 @@
 <h3>iOS Developer | web Developer | Software Engineer | C.S Grad @ Hood College</h3>
 
 📖 About Me
-<h3 align="center">
 Recent graduate at Hood College specializing in <b>iOS development using SwiftUI & UIKit</b>, with experience in UI development, mobile architecture, and networking.
-</h3>
+
+Besides mobile development, I have solid foundation with full-stack web development, building responsive and scalable applications using React.
+
+Currently, sharpening my iOS development skills, developing a portfolio-grade applications, and perparing for entry-level iOS developer and Software Engineering roles. 
