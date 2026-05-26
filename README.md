@@ -11,11 +11,11 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
 
 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=swift,react,java,python,github,git,vscode&theme=dark" />
 </p>
 
-<p align="center">
+<p>
   Swift • SwiftUI • UIKit • Xcode • VS Code • Git • GitHub • React • Java • Python
 </p>
 
