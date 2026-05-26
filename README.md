@@ -9,6 +9,8 @@ Besides mobile development, I have solid foundation with full-stack web developm
 
 Currently, sharpening my iOS development skills, developing a portfolio-grade applications, and perparing for entry-level iOS developer and Software Engineering roles. 
 
+------------------------------------------------------------
+
 🛠️ Tech Stack & Tools
 
 <p>
