@@ -18,6 +18,7 @@ Currently, sharpening my iOS development skills, developing a portfolio-grade ap
 🚀 Projects
 
 <img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
+
 🎥 Movie List Website
 Movie List website built with:
 Frontend: React with vite 
