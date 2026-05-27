@@ -1,9 +1,9 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/68eed66e-b2d6-4804-b77a-24f20319a15a" />
-<h3>iOS Developer | web Developer | Software Engineer | C.S New Grad @ Hood College</h3>
+<h3>web Developer | iOS Developer | Software Engineer | C.S New Grad @ Hood College</h3>
 
 📖 About Me
 
-Recent graduate at Hood College specializing in <b>full-stack web development<b>,  building responsive and scalable applications using React and Node.js 
+Recent graduate at Hood College specializing in <b>full-stack web development<b>, with experience building responsive and scalable applications using React and Node.js 
 
 Besides web development, I have solid foundation in <b>iOS development</b> with experience in UI development, mobile architecture, and networking.
 
