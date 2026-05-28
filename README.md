@@ -3,12 +3,12 @@
 
 📖 About Me
 
-Recent graduate at Hood College specializing in <b>full-stack web development<b>, with experience building responsive and scalable applications using React and Node.js 
+Recent graduate at Hood College specializing in <b>full-stack web development</b>, with experience building responsive and scalable applications using React and Node.js 
 
 Besides web development, I have solid foundation in <b>iOS development</b> with experience in UI development, mobile architecture, and networking.
 
 
-Currently, I’m focused on strengthening my iOS and web development skills, building portfolio-grade applications, and preparing for entry-level iOS Developer and Software Engineering roles.
+Currently, I’m focused on strengthening my iOS development skills building portfolio-grade applications, and preparing for entry-level iOS/web Developer and Software Engineering roles.
 
 ------------------------------------------------------------
 
