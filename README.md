@@ -1,7 +1,7 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/68eed66e-b2d6-4804-b77a-24f20319a15a" />
 <h3>Web Developer | Software Engineer | C.S New Grad @ Hood College</h3>
 
-📖 About Me
+📖 About Me:
 
 Recent graduate at Hood College specializing in <b>full-stack web development</b>, with experience building responsive and scalable applications.
 
@@ -12,7 +12,7 @@ Currently, I’m focused on strengthening my web development skills building por
 
 ------------------------------------------------------------
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools:
 
 <p>
   <img src="https://skillicons.dev/icons?i=swift,react,java,python,github,git,vscode&theme=dark" />
@@ -20,11 +20,11 @@ Currently, I’m focused on strengthening my web development skills building por
 
 ------------------------------------------------------------
 
-🚀 Projects
-
-<img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
+🚀 Projects:
 
 🎥 Movie-App
+
+<img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
 
 Movie List website built with:
 - <b>Frontend:</b> React with vite
