@@ -22,6 +22,7 @@ Currently, I’m focused on strengthening my web development skills building por
 
 🚀 Projects:
 
+
 🎥 Movie-App
 
 <img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
@@ -42,6 +43,29 @@ Key Features:
     🔗 Github Repo
   </a>
 </p>
+
+
+~/Portfolio
+
+<img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/b525929d-2a34-4bed-a81b-74bae400ef68" />
+
+Portfolio Website built with:
+- <b>Frontend:</b> React, Vite, CSS
+
+Key Features:
+- macOS-style Terminal Feature
+- Dark/Light theme button
+- Portfolio (my work on Display globally)
+
+<p>
+  <a href="https://github.com/Salum14/Portfolio">
+    🔗 Github Repo
+  </a>
+</p>  
+
+
+
+
 
 ------------------------------------------------------------
 
