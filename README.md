@@ -27,6 +27,7 @@ Currently, I’m focused on strengthening my web development skills building por
 
 <img width="540" height="351" alt="portfolioDemo" src="https://github.com/user-attachments/assets/11720c06-3aff-48fb-84c8-080b3053a292" />
 
+
 Portfolio Website built with:
 - <b>Frontend:</b> React, Vite, CSS
 
@@ -45,6 +46,7 @@ Key Features:
 🎥 Movie-App
 
 <img width="540" height="304" alt="github_profile_demo_under_10mb" src="https://github.com/user-attachments/assets/1e80c9e5-6446-4e5f-9c3f-6a614958d95a" />
+
 
 Movie List website built with:
 - <b>Frontend:</b> React with vite
