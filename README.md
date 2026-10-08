@@ -62,7 +62,7 @@ Key Features:
 
 <p>
   <a href="https://github.com/Salum14/Portfolio">
-    🔗 Github Repo
+    🔗 Github Repo | 🔗 https://salumm.com
   </a>
 </p>  
 
