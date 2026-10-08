@@ -3,12 +3,12 @@
 
 📖 About Me
 
-Recent graduate at Hood College specializing in <b>full-stack web development</b>, with experience building responsive and scalable applications using <b>React and Node.js</b> 
+Recent graduate at Hood College specializing in <b>full-stack web development</b>, with experience building responsive and scalable applications.
 
 Besides web development, I have solid foundation in <b>Software Engineering</b> with experience in <b>Data structures, Algorithms, and Debugging</b>.
 
 
-Currently, I’m focused on strengthening my web development skills building portfolio-grade applications, and preparing for entry-level web Developer and Software Engineering roles.
+Currently, I’m focused on strengthening my web development skills building portfolio-grade applications, and preparing for entry-level Software Engineering/Developer roles.
 
 ------------------------------------------------------------
 
